@@ -2,7 +2,8 @@
 
 I'm Shaadiqiin, a data enthusiast based in Indonesia
 Information Systems graduate who turns raw data into business decisions.
-Former Data Scientist Intern at **Telkom Indonesia** · Currently running a 32,000-plant agribusiness, where I use data every day. Open to entry-level data roles in Jakarta.
+Former Data Scientist Intern at **Telkom Indonesia** · Currently running a 32,000-plant agribusiness, where I use data every day. 
+Restarting my portfolio · Open to entry-level data roles in Jakarta.
 
 ### 🛠️ Tools
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
